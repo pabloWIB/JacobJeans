@@ -1,8 +1,8 @@
-<h2 align="center">Figma design: <a href=""></a></h2>
+<h2 align="center">Figma design: <a href="https://www.figma.com/design/SDvnMipMath9VN8JGWw469/jacob-jeans?t=FmXk7ydndceoVhe9-0"></a></h2>
 
-<img src="IMG/hero.jpg">
+<img src="img/hero.jpg">
 
-<h2 align="center">Project: <a href=""></a></h2>
+<h2 align="center">Project: <a href="https://jacob-jeans.vercel.app/">Jacob Jeans</a></h2>
 
 <h2>Stack Used👨🏻‍💻</h2>
 <br>
