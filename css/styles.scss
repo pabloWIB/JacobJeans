@@ -1,0 +1,9 @@
+@import "fonts/fontSizes.css";
+
+:root {
+  --vh: 1vh;
+}
+
+.100vh_section{
+    height: calc(var(--vh) * 100);
+}

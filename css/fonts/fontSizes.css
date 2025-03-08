@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1 {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+h2,
+h3,
+h4,
+a,
+button {
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+a,
+p,
+span,
+label,
+input,
+button ul,
+li {
+  font-size: 18px;
+}
+
+p,
+span,
+input,
+select,
+option ul,
+li {
+  font-weight: 500;
+}
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 19px;
+  }
+  h4 {
+    font-size: 17px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+  a,
+  p,
+  span,
+  label,
+  input,
+  button ul,
+  li {
+    font-size: 16px;
+  }
+}
+@media (max-width: 575px) {
+  h1 {
+    font-size: 22px;
+  }
+  h2 {
+    font-size: 16px;
+  }
+  h3 {
+    font-size: 15px;
+  }
+  h4 {
+    font-size: 14.5px;
+  }
+  a,
+  p,
+  span,
+  label,
+  input,
+  button ul,
+  li {
+    font-size: 14px;
+  }
+}
+body div::-moz-selection, body section::-moz-selection {
+  background: transparent;
+}
+body div::selection,
+body section::selection {
+  background: transparent;
+}
+body img::-moz-selection {
+  background: transparent;
+}
+body img::selection {
+  background: transparent;
+}/*# sourceMappingURL=fontSizes.css.map */
