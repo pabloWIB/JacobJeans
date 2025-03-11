@@ -7,7 +7,7 @@ body {
   height: calc(var(--vh) * 100);
   -o-object-fit: cover;
      object-fit: cover;
-  background-image: url("../img/background2.jpg");
+  background-image: url("../img/background.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -32,7 +32,7 @@ body > :nth-child(1) > :nth-child(2) img {
   max-width: 650px;
 }
 body > :nth-child(1) > :nth-child(3) {
-  color: white;
+  color: #00265d;
   font-family: "Montserrat", sans-serif;
   text-align: center;
   display: flex;
@@ -50,7 +50,8 @@ body > :nth-child(1) > :nth-child(3) > :nth-child(3) img {
   max-width: 45px;
 }
 body > :nth-child(1) > :nth-child(3) > :nth-child(4) {
-  color: white;
+  color: #00265d;
+  text-decoration: none;
 }
 
 .spotify {
