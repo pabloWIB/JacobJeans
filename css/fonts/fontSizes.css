@@ -17,10 +17,7 @@ h1 {
 }
 
 h2,
-h3,
-h4,
-a,
-button {
+a {
   font-weight: 600;
 }
 
@@ -28,29 +25,8 @@ h2 {
   font-size: 28px;
 }
 
-h3 {
-  font-size: 20px;
-}
-
-h4 {
+a {
   font-size: 18px;
-}
-
-a,
-p,
-label,
-input,
-button ul,
-li {
-  font-size: 18px;
-}
-
-p,
-input,
-select,
-option ul,
-li {
-  font-weight: 500;
 }
 
 @media (max-width: 900px) {
@@ -60,18 +36,7 @@ li {
   h2 {
     font-size: 24px;
   }
-  h3 {
-    font-size: 17px;
-  }
-  h4 {
-    font-size: 15px;
-  }
-  a,
-  p,
-  label,
-  input,
-  button ul,
-  li {
+  a {
     font-size: 16px;
   }
 }
@@ -82,18 +47,7 @@ li {
   h2 {
     font-size: 20px;
   }
-  h3 {
-    font-size: 15px;
-  }
-  h4 {
-    font-size: 14.5px;
-  }
-  a,
-  p,
-  label,
-  input,
-  button ul,
-  li {
+  a {
     font-size: 14px;
   }
 }
